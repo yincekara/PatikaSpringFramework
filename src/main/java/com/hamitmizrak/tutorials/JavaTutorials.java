@@ -33,7 +33,7 @@ public class JavaTutorials {
         //DRY
         //MONAD
         //List Set Map
-        //Liste:LinkedList ArrayList
+        //List: LinkedList ArrayList
         //Generic <>
         //Iterator
         //OOP
@@ -45,20 +45,20 @@ public class JavaTutorials {
         //class
         //POJO
         //Bean
-        //Serileştirme
+        //Serializing
         //IO
         //JAR WAR
-        //Dağıtık
+        //Distributed
         //server
 
         //constructor
-        //excepiton
+        //exception
         //error
 
         //Java 8 : stream,map,filter,sort
         //Optional
         //Lambda Expression
-        //Method Referances ::
+        //Method References ::
 
         //D.P.
     }
